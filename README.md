@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 4年前端开发 </p>  
-<p align="center"> 曾参与过跨境电商，游戏服务行业，现就职与机械加工行业，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
+<p align="center"> 曾参与过跨境电商，游戏服务行业，现就职于机械加工行业，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
 <p align="center"> 专注于web前端，对javaScript、vue.js、nuxt.js、node.js、pm2等都有涉猎</p>  
 
 
