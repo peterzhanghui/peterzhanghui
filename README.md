@@ -4,6 +4,7 @@
 <p>🌱 I’m currently learning typescript</p>
 💬 Ask me about anything <a href="https://github.com/peterzhanghui/peterzhanghui/issues">here</a>
 </div>
+<p></P> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peterzhanghui&show_icons=true&theme=graywhite"/>
