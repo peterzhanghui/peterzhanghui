@@ -1,8 +1,8 @@
 <div align="center">
 <h2 >Hi there, 👋 I'm peterzhanghui! 😎</h2>
 
-<p>🌱 I’m currently learning typescript</p>   
-<p>💬 Ask me about anything [here](https://github.com/peterzhanghui/peterzhanghui/issues)</p> 
+<p>🌱 I’m currently learning typescript</p>
+💬 Ask me about anything <a href="https://github.com/peterzhanghui/peterzhanghui/issues">here</a>
 </div>
 
 <p align="center">
