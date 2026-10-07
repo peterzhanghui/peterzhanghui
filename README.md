@@ -1,23 +1,17 @@
-<div align="center">
-<h2 >Hi there, 👋 I'm peterzhanghui! 😎</h2>
+### 你好，我是辉哥 👋
 
-<p>🌱 I’m currently learning typescript</p>
-💬 Ask me about anything <a href="https://github.com/peterzhanghui/peterzhanghui/issues">here</a>
-</div>
-<p></P> 
+10 年互联网开发，前后端都做过。现在主要做一件事：**用 AI 把想法和需求做成能用的东西。**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterzhanghui&show_icons=true&theme=graywhite"/>
-</p>
+- 🛠 给有业务的小团队做技术支持、技术顾问和落地服务：流程提效、AI 产品与软件落地、系统集成
+- 📹 把用 AI 做产品、改流程的真实过程，分享在「辉哥有解」（抖音 / 小红书 / 视频号 / 公众号）
 
-<p align="center"> 4年前端开发 </p>  
-<p align="center"> 曾参与过跨境电商，互药行业，现就职于金融行业，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
-<p align="center"> 专注于web前端，对javaScript、vue.js、nuxt.js、node.js、pm2等都有涉猎</p>
-  <div align="center">
-<h2>Languages and Tools:</h2>  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+#### 作品
 
-</div>
+| 作品 | 是什么 |
+| --- | --- |
+| [jiatt.top](https://jiatt.top) | 官网与 AI 顾问：企业 AI 落地与工作流交付 |
+| [lingyu-skills](https://github.com/peterzhanghui/lingyu-skills) | 中文起名的 AI Skill：音形义、谐音、重名核查，出处可核验才标注 |
+
+#### 找我
+
+有具体需求，可以通过 [jiatt.top](https://jiatt.top) 联系。说清三件事最快：现在的流程是怎样的、卡在哪一步、想改哪个环节。
